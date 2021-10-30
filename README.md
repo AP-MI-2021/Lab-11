@@ -46,5 +46,6 @@ Punctajul pe fiecare cerință se acordă astfel:
 - studenții de la Matematică pot obține punctaj maxim fără să scrie teste (procentajul aferent se redistribuie la corectitudine), fără să rețină datele în fișiere și fără să folosească repository, dar dacă fac aceste lucruri pot obține `3` puncte bonus. Aceste bonusuri se acordă proporțional cu funcționalitățile rezolvate. 
 - studenții de la Mate-info și Fizică-info pot obține `1` punct bonus dacă au maxim `3` warning-uri PEP 8 și `2` puncte bonus dacă nu au niciun warning PEP 8. Aceste bonusuri se acordă doar pentru punctaje inițiale `>= 7`.
 - o cerință nefuncțională se notează cu `0`. 
-- nereținerea datelor în fișiere duce la o penalizare de `50%` din punctajul obținut conform baremului.
+- nereținerea datelor în fișiere duce la o penalizare de `50%` din punctajul obținut conform baremului. 
+- o implementare non-OOP duce la o penalizare de `50%` din punctajul obținut conform baremului.
 
